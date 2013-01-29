@@ -3153,6 +3153,11 @@
         <version>${shindig.version}</version>
       </dependency>
       <dependency>
+        <groupId>org.apache.shindig</groupId>
+        <artifactId>shindig-extras</artifactId>
+        <version>${shindig.version}</version>
+      </dependency>
+      <dependency>
         <groupId>commons-betwixt</groupId>
         <artifactId>commons-betwixt</artifactId>
         <version>0.8</version>
